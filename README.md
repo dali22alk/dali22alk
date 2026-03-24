@@ -1,114 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0b3b66,50:0ea5e9,75:14b8a6,100:f97316&height=220&section=header&text=Dalia%20Alkelani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08121c,20:0f2f46,45:155e75,70:1d8b8f,100:f59e0b&text=Dalia%20Alkelani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Robotics&descSize=18&descAlignY=56" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2600&pause=700&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer+in+Progress;Building+Intelligent+Systems+That+Solve+Real+Problems;Turning+Ideas+Into+Scalable+Reality" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dalia;I+build+intelligent+systems;AI+%2B+Vision+%2B+Robotics;Turning+ideas+into+real+products" alt="Typing Animation" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Robotics-14B8A6?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Tech%20Creator-F97316?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Builder-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0ea5e9?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Robotics-14b8a6?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Creative%20Engineer-f59e0b?style=for-the-badge&logo=github&logoColor=white" />
 
 <br><br>
 
 <h3>
-  Designing intelligent systems where software, vision, and hardware work as one.
+  Building smart experiences where code, vision, and hardware move together.
 </h3>
 
-<p>
-I build practical AI products by combining <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Robotics</b> into scalable, real-world solutions.
+<p width="700">
+  I create practical, human-centered systems using <b>AI</b>, <b>computer vision</b>, and <b>robotics</b> to solve real problems with clean execution and bold ideas.
 </p>
 
 </div>
 
 ---
 
-## About Me
+## 01. About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=38bdf8&text_color=e2e8f0&border_color=1f2937&bg_color=00000000" />
 
-### Core Focus
-- Building AI-powered systems with real-world value
-- Developing computer vision and NLP solutions
-- Connecting intelligent software with robotics hardware
-- Creating scalable workflows for modern applications
-
-  </td>
-    <td width="50%" valign="top">
-
-### Current Mission
-- AI for Computer Vision and NLP
-- Real-time intelligent systems
-- Robotics with Arduino and ESP32
-- Intelligent automation and technical content creation
-
-  </td>
-  </tr>
-</table>
-
----
-
-## Tech Arsenal
-
-### AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-111827?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### Web & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### Robotics & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-111827?style=flat-square)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-
-
----
-
-## What I Build
-
-```text
-AI Models        -> Smart systems that learn, predict, and optimize
-Computer Vision  -> Real-time visual intelligence for practical use cases
-Robotics         -> Hardware-driven automation with intelligent control
-Backends & APIs  -> Scalable systems that bring products to life
+```yaml
+name: Dalia Alkelani
+focus: AI, Computer Vision, Robotics
+mindset: Build useful things, not just flashy demos
+currently:
+  - Designing intelligent real-world systems
+  - Exploring NLP and real-time AI workflows
+  - Connecting software with embedded hardware
+  - Growing into high-impact product engineering
 ```
-## Current Exploration
-<div align="center"> <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Real--Time%20AI-111827?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge&logoColor=white" /> </div>
-Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/Dalia-Alkelani/" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /> </a> <a href="https://www.instagram.com/daliaalkelani/" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /> </a> <a href="mailto:Daliaalkelani@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /> </a>
+<br clear="right"/>
+02. What I Do
+<div align="center">
+Focus Area	What I Build
+AI Systems	Models and workflows that learn, predict, and automate
+Computer Vision	Real-time visual intelligence for practical applications
+Robotics	Smart hardware behavior using Arduino and ESP32
+Backend Logic	APIs and systems that power production-ready ideas
+</div>
+03. Tech Stack
+AI / Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /> </p> <p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/MediaPipe-111827?style=flat-square" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /> </p>
+Programming / Development
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,php" /> </p>
+Backend / Databases
+<p> <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,git,github" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> </p>
+Hardware / Embedded
+<p> <img src="https://skillicons.dev/icons?i=arduino" /> <img src="https://img.shields.io/badge/ESP32-111827?style=flat-square" /> </p>
+04. Current Vibe
+<div align="center"> <img src="https://img.shields.io/badge/Real--Time%20AI-0f172a?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-0f172a?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-0f172a?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded%20Systems-0f172a?style=for-the-badge&logoColor=white" /> </div>
+05. Philosophy
+<div align="center">
+Think boldly.
+Build cleanly.
+Ship intelligently.
+Make it real.
+</div>
+06. GitHub Energy
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=38bdf8&icon_color=f59e0b&text_color=e2e8f0&border_color=1f2937&bg_color=00000000" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8&border=1f2937" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" /> </div>
+07. Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/Dalia-Alkelani/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/daliaalkelani/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:Daliaalkelani@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 <br><br>
 
-<a href="https://www.linkedin.com/in/Dalia-Alkelani/"> <img src="https://img.shields.io/badge/Connect%20Professionally-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="https://www.instagram.com/daliaalkelani/"> <img src="https://img.shields.io/badge/Follow%20the%20Journey-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" /> </a> <a href="mailto:Daliaalkelani@gmail.com"> <img src="https://img.shields.io/badge/Start%20a%20Conversation-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
+<a href="https://www.linkedin.com/in/Dalia-Alkelani/" target="_blank"> <img src="https://img.shields.io/badge/Let's%20Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="mailto:Daliaalkelani@gmail.com"> <img src="https://img.shields.io/badge/Build%20Something%20Together-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
 <br><br>
 
-<h3>Let's build something intelligent, bold, and real.</h3> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0b3b66,50:0ea5e9,75:14b8a6,100:f97316&height=140&section=footer" /> 
+<h3>Bold ideas. Smart systems. Real impact.</h3> </div> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:08121c,20:0f2f46,45:155e75,70:1d8b8f,100:f59e0b" width="100%" /> ```
+
