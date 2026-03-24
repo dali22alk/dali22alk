@@ -1,6 +1,8 @@
+<div align="center">
+
 # Hi, I'm Dalia 👩‍💻
 
-AI & Robotics Engineer in progress · Tech Content Creator
+### AI & Robotics Engineer in progress · Tech Content Creator
 
 I build intelligent systems by combining Artificial Intelligence, Computer Vision, and Robotics, turning ideas into real-world applications using modern tools and scalable workflows.
 
@@ -10,16 +12,16 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 
 ### 🤖 AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat&logo=natural-language-processing&logoColor=white)
+
+---
 
 ### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,17 +32,25 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
+---
+
 ### 🌐 Web & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+---
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
+---
+
 ### 🔧 Robotics & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat)
+
+---
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -55,3 +65,13 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 - Robotics with Arduino & ESP32  
 - Building AI-powered real-time systems  
 - Exploring intelligent automation & AI content creation  
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/Dalia-Alkelani/) • 
+[Instagram](https://www.instagram.com/daliaalkelani/) • 
+📧 Daliaalkelani@gmail.com
+
+</div>
