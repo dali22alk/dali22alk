@@ -100,13 +100,40 @@ Computer Vision  -> Real-time visual understanding
 Robotics         -> Hardware-integrated automation
 APIs & Backends  -> Scalable deployment workflows
 ```
-## Contact
+## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalia%20Alkelani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Dalia-Alkelani/)
-[![Instagram](https://img.shields.io/badge/Instagram-@daliaalkelani-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daliaalkelani/)
-[![Email](https://img.shields.io/badge/Email-Daliaalkelani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Daliaalkelani@gmail.com)
+<a href="https://www.linkedin.com/in/Dalia-Alkelani/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+<a href="https://www.instagram.com/daliaalkelani/" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+</a>
+<a href="mailto:Daliaalkelani@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
+
+<br><br>
+
+<h3>
+  Let's build something intelligent, bold, and real.
+</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/Dalia-Alkelani/">
+    <img src="https://img.shields.io/badge/Connect%20Professionally-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.instagram.com/daliaalkelani/">
+    <img src="https://img.shields.io/badge/Follow%20the%20Journey-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="mailto:Daliaalkelani@gmail.com">
+    <img src="https://img.shields.io/badge/Start%20a%20Conversation-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:e4405f&height=120&section=footer&text=DALIA%20ALKELANI&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
 </div>
+
  ```
