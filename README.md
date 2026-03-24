@@ -19,6 +19,7 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat&logo=natural-language-processing&logoColor=white)
 
 ### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
