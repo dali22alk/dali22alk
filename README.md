@@ -2,7 +2,7 @@
 
 # Hi, I'm Dalia 👩‍💻
 
-### AI & Robotics Engineer in progress · Tech Content Creator
+### AI & Robotics Engineer · Tech Content Creator
 
 I build intelligent systems by combining Artificial Intelligence, Computer Vision, and Robotics, turning ideas into real-world applications using modern tools and scalable workflows.
 
