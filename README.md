@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### AI & Robotics Engineer in progress · Tech Content Creator
+### AI & Robotics Engineer · Tech Content Creator
 
 I build intelligent products by combining **Artificial Intelligence**, **Computer Vision**, and **Robotics**  
 to turn ideas into practical, scalable, real-world systems.
@@ -89,7 +89,6 @@ to turn ideas into practical, scalable, real-world systems.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
