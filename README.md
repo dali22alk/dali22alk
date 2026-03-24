@@ -100,3 +100,11 @@ AI Models        -> Smart decision-making systems
 Computer Vision  -> Real-time visual understanding
 Robotics         -> Hardware-integrated automation
 APIs & Backends  -> Scalable deployment workflows
+```
+Contact
+<div align="center">
+LinkedIn
+Instagram
+Email
+
+</div> <br> <div align="center"> <sub>Focused on building meaningful AI systems with elegant engineering.</sub> </div> ```
