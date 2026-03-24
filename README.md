@@ -101,10 +101,13 @@ Computer Vision  -> Real-time visual understanding
 Robotics         -> Hardware-integrated automation
 APIs & Backends  -> Scalable deployment workflows
 ```
-Contact
-<div align="center">
-LinkedIn
-Instagram
-Email
+## Contact
 
-</div> <br> <div align="center"> <sub>Focused on building meaningful AI systems with elegant engineering.</sub> </div> ```
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalia%20Alkelani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Dalia-Alkelani/)
+[![Instagram](https://img.shields.io/badge/Instagram-@daliaalkelani-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daliaalkelani/)
+[![Email](https://img.shields.io/badge/Email-Daliaalkelani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Daliaalkelani@gmail.com)
+
+</div>
+ ```
