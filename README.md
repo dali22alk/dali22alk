@@ -111,4 +111,4 @@ Connect With Me
 <a href="https://www.linkedin.com/in/Dalia-Alkelani/"> <img src="https://img.shields.io/badge/Connect%20Professionally-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="https://www.instagram.com/daliaalkelani/"> <img src="https://img.shields.io/badge/Follow%20the%20Journey-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" /> </a> <a href="mailto:Daliaalkelani@gmail.com"> <img src="https://img.shields.io/badge/Start%20a%20Conversation-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
 <br><br>
 
-<h3>Let's build something intelligent, bold, and real.</h3> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0b3b66,50:0ea5e9,75:14b8a6,100:f97316&height=140&section=footer" /> ```
+<h3>Let's build something intelligent, bold, and real.</h3> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0b3b66,50:0ea5e9,75:14b8a6,100:f97316&height=140&section=footer" /> 
