@@ -15,8 +15,6 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-### 👁️ Computer Vision
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=flat)
 ![OpenCV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat)
 
@@ -30,7 +28,6 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 
 ### 🌐 Web & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### 🗄️ Databases
