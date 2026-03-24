@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dalia 👋
 
-<!--
-**dali22alk/dali22alk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student passionate about AI, robotics, and building real-world solutions.
 
-Here are some ideas to get you started:
+## 🚀 Currently
+- Working on AI-based projects (NLP & Computer Vision)
+- Exploring AI-powered content creation & media
+- Building robotics systems with Arduino & ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- Python, C++, Java
+- OpenCV, MediaPipe, Scikit-learn
+- Arduino, ESP32
+- AI tools for image & video generation
+
+## 📫 How to reach me
+- Email: Daliaalkelani@gmail.com
+- LinkedIn: https://www.linkedin.com/in/Dalia-Alkelani/
+- Instagram: https://www.instagram.com/daliaalkelani/
