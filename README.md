@@ -1,24 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer+in+Progress;Building+Intelligent+Systems+for+the+Real+World" alt="Typing Intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0b3b66,50:0ea5e9,75:14b8a6,100:f97316&height=220&section=header&text=Dalia%20Alkelani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics&descAlignY=58&descSize=18" />
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2600&pause=700&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer+in+Progress;Building+Intelligent+Systems+That+Solve+Real+Problems;Turning+Ideas+Into+Scalable+Reality" alt="Typing Animation" />
 
-<img src="https://img.shields.io/badge/AI%20Engineer-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
+<br>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Robotics-14B8A6?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Tech%20Creator-F97316?style=for-the-badge&logo=github&logoColor=white" />
 
-</div>
+<br><br>
 
-<br>
+<h3>
+  Designing intelligent systems where software, vision, and hardware work as one.
+</h3>
 
-<div align="center">
-
-### AI & Robotics Engineer · Tech Content Creator
-
-I build intelligent products by combining **Artificial Intelligence**, **Computer Vision**, and **Robotics**  
-to turn ideas into practical, scalable, real-world systems.
+<p>
+I build practical AI products by combining <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Robotics</b> into scalable, real-world solutions.
+</p>
 
 </div>
 
@@ -30,20 +31,20 @@ to turn ideas into practical, scalable, real-world systems.
   <tr>
     <td width="50%" valign="top">
 
-### Focus
-- Designing AI-powered systems with real-world impact
-- Building computer vision and NLP solutions
-- Integrating software with robotics hardware
-- Creating scalable technical workflows
+### Core Focus
+- Building AI-powered systems with real-world value
+- Developing computer vision and NLP solutions
+- Connecting intelligent software with robotics hardware
+- Creating scalable workflows for modern applications
 
   </td>
     <td width="50%" valign="top">
 
-### Currently
-- AI for NLP & Computer Vision
-- Robotics with Arduino & ESP32
-- Building AI-powered real-time systems
-- Exploring intelligent automation & content creation
+### Current Mission
+- AI for Computer Vision and NLP
+- Real-time intelligent systems
+- Robotics with Arduino and ESP32
+- Intelligent automation and technical content creation
 
   </td>
   </tr>
@@ -51,7 +52,7 @@ to turn ideas into practical, scalable, real-world systems.
 
 ---
 
-## Tech Stack
+## Tech Arsenal
 
 ### AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -89,51 +90,14 @@ to turn ideas into practical, scalable, real-world systems.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## What I Build
 
 ```text
-AI Models        -> Smart decision-making systems
-Computer Vision  -> Real-time visual understanding
-Robotics         -> Hardware-integrated automation
-APIs & Backends  -> Scalable deployment workflows
-```
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/Dalia-Alkelani/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-<a href="https://www.instagram.com/daliaalkelani/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-</a>
-<a href="mailto:Daliaalkelani@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
-
-<br><br>
-
-<h3>
-  Let's build something intelligent, bold, and real.
-</h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/Dalia-Alkelani/">
-    <img src="https://img.shields.io/badge/Connect%20Professionally-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://www.instagram.com/daliaalkelani/">
-    <img src="https://img.shields.io/badge/Follow%20the%20Journey-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  <a href="mailto:Daliaalkelani@gmail.com">
-    <img src="https://img.shields.io/badge/Start%20a%20Conversation-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:e4405f&height=120&section=footer&text=DALIA%20ALKELANI&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
-
-</div>
-
- ```
+AI Models        -> Smart systems that learn, predict, and optimize
+Computer Vision  -> Real-time visual intelligence for practical use cases
+Robotics         -> Hardware-driven automation with intelligent control
+Backends & APIs  -> Scalable systems that bring products to life
