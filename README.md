@@ -17,6 +17,7 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=flat)
 ![OpenCV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -25,6 +26,7 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### 🌐 Web & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -51,11 +53,3 @@ I build intelligent systems by combining Artificial Intelligence, Computer Visio
 - Robotics with Arduino & ESP32  
 - Building AI-powered real-time systems  
 - Exploring intelligent automation & AI content creation  
-
----
-
-## 📫 Contact
-
-- 📧 Email: Daliaalkelani@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/Dalia-Alkelani/  
-- 📸 Instagram: https://www.instagram.com/daliaalkelani/
