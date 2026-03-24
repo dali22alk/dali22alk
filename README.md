@@ -101,3 +101,14 @@ AI Models        -> Smart systems that learn, predict, and optimize
 Computer Vision  -> Real-time visual intelligence for practical use cases
 Robotics         -> Hardware-driven automation with intelligent control
 Backends & APIs  -> Scalable systems that bring products to life
+```
+## Current Exploration
+<div align="center"> <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Real--Time%20AI-111827?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge&logoColor=white" /> </div>
+Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/Dalia-Alkelani/" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /> </a> <a href="https://www.instagram.com/daliaalkelani/" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /> </a> <a href="mailto:Daliaalkelani@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /> </a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/Dalia-Alkelani/"> <img src="https://img.shields.io/badge/Connect%20Professionally-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="https://www.instagram.com/daliaalkelani/"> <img src="https://img.shields.io/badge/Follow%20the%20Journey-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" /> </a> <a href="mailto:Daliaalkelani@gmail.com"> <img src="https://img.shields.io/badge/Start%20a%20Conversation-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a>
+<br><br>
+
+<h3>Let's build something intelligent, bold, and real.</h3> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0b3b66,50:0ea5e9,75:14b8a6,100:f97316&height=140&section=footer" /> ```
