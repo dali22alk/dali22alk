@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Dalia%20Alkelani&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF758C,100:FF7EB3&height=250&section=header&text=Dalia%20Alkelani&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics&descAlignY=60&descSize=20" width="100%"/>
 
-<h3 align="center">Architecting Intelligent Systems at the Intersection of Software and Hardware</h3>
+<h3 align="center">Architecting Intelligent Systems at the Intersection of Software and Hardware ✨</h3>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&height=40&lines=Building+Intelligent+Systems+That+Scale...;Transforming+Data+Into+Actionable+Insights;Connecting+Software+Brain+with+Robotic+Brawn;AI+%26+Robotics+Engineer+In+Progress" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=40&lines=Building+Intelligent+Systems+That+Scale...;Transforming+Data+Into+Actionable+Insights;Connecting+Software+Brain+with+Robotic+Brawn;Tech+Creator+%26+Engineer+In+Progress+%E2%9C%A8" alt="Typing Animation" />
 
 </div>
 
@@ -17,7 +17,7 @@
     <td width="60%" valign="top">
       <h2>👋 About Me</h2>
       <p>
-        I am a passionate <b>AI and Robotics Engineer</b> dedicated to designing practical, scalable, and intelligent systems. By combining Machine Learning, Computer Vision, and Hardware automation, I aim to build products that solve real-world problems.
+        I am a passionate <b>AI and Robotics Engineer</b> with a love for building creative, practical, and intelligent systems. By combining Machine Learning, Computer Vision, and Hardware automation, I aim to build products that solve real-world problems while keeping things stylish and fun! 🌟
       </p>
       <h3>🚀 Core Focus</h3>
       <ul>
@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Workspace Animation"/>
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(255,117,140,0.3);" alt="Workspace Animation"/>
     </td>
   </tr>
 </table>
@@ -73,15 +73,17 @@
 
 <div align="center">
   <a href="https://github.com/DaliaAlkelani">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaliaAlkelani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=0EA5E9" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DaliaAlkelani&show_icons=true&title_color=FF3366&icon_color=FF7EB3&text_color=ffffff&bg_color=1E1E2E&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/DaliaAlkelani">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaAlkelani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaAlkelani&layout=compact&title_color=FF3366&text_color=ffffff&bg_color=1E1E2E&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 
   <br/><br/>
   
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" style="max-width: 850px;" />
+  <a href="https://github.com/DaliaAlkelani">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaliaAlkelani&theme=tokyonight&fire=FF3366&ring=FF7EB3&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FF7EB3&currStreakLabel=FF7EB3&dates=ffffff&background=1E1E2E&hide_border=true" alt="GitHub Streak" width="100%" style="max-width: 850px;" />
+  </a>
 </div>
 
 <br/>
@@ -98,6 +100,6 @@
   <a href="mailto:Daliaalkelani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7EB3,100:FF758C&height=120&section=footer" width="100%"/>
 
 </div>
