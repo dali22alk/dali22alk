@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9f7aea,4299e1,2b6cb0&height=150&section=header&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer;Tech+Content+Creator" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&height=80&duration=4000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer;Tech+Content+Creator" alt="Typing SVG" /></a>
   <br><br>
   <p align="center">
     <a href="https://www.linkedin.com/in/Dalia-Alkelani/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -35,7 +31,9 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="starry divider"/>
+</div>
 
 ### 💻 Tech Stack
 
