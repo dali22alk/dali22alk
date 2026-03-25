@@ -1,8 +1,5 @@
-![d](https://github.com/user-attachments/assets/1d0b3f9b-36c4-4cef-95ad-83b6fb4ed15c)
 <div align="center">
   
-  <img src="d.gif" alt="Dalia caricature working on laptop with tech vibes" width="450">
-
   # Hi there, I'm Dalia 👋
 
   ### AI & Robotics Engineer in progress · Tech Content Creator  
@@ -19,7 +16,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="70%">
+    <td width="65%">
       <h2>🚀 About Me</h2>
       <p>I build <b>intelligent systems</b> by combining <b>Artificial Intelligence, Computer Vision, and Robotics</b>, turning ideas into real-world applications using modern tools and scalable workflows.</p>
       <b>🔭 Currently Focusing On:</b>
@@ -30,9 +27,8 @@
         <li>🎨 Exploring AI content creation</li>
       </ul>
     </td>
-    <td width="30%" align="center">
-      ![d](https://github.com/user-attachments/assets/e404f1d6-3f40-4b0e-b751-d2f9d58dd700)
-
+    <td width="35%" align="center">
+      <img src="https://github.com/user-attachments/assets/e404f1d6-3f40-4b0e-b751-d2f9d58dd700" width="300" alt="Dalia caricature working on laptop with tech vibes">
     </td>
   </tr>
 </table>
