@@ -7,6 +7,7 @@
     <a href="https://www.instagram.com/daliaalkelani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="mailto:Daliaalkelani@gmail.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
   </p>
+
 </div>
 
 <br>
@@ -24,14 +25,15 @@
         <li>🎨 Exploring AI content creation</li>
       </ul>
     </td>
-
     <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/d.gif" width="300" alt="Dalia caricature working on laptop with tech vibes">
+      <img src="d.gif" width="300" alt="Dalia caricature working on laptop with tech vibes">
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="starry divider"/>
+</div>
 
 ### 💻 Tech Stack
 
@@ -71,6 +73,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 </p>
 
@@ -79,5 +82,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9f7aea,4299e1,2b6cb0&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
