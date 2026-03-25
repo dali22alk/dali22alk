@@ -7,7 +7,6 @@
     <a href="https://www.instagram.com/daliaalkelani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="mailto:Daliaalkelani@gmail.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
   </p>
-
 </div>
 
 <br>
@@ -25,8 +24,9 @@
         <li>🎨 Exploring AI content creation</li>
       </ul>
     </td>
+
     <td width="35%" align="center">
-      <img src="d.gif" width="300" alt="Dalia caricature working on laptop with tech vibes">
+      <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/d.gif" width="300" alt="Dalia caricature working on laptop with tech vibes">
     </td>
   </tr>
 </table>
