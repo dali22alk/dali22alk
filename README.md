@@ -1,5 +1,3 @@
-
-![d](https://github.com/user-attachments/assets/a6b307da-9716-43ba-bb77-869fe40a9d4a)
 <div align="center">
   
   # Hi there, I'm Dalia 👋
@@ -30,7 +28,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://github.com/user-attachments/assets/e404f1d6-3f40-4b0e-b751-d2f9d58dd700" width="300" alt="Dalia caricature working on laptop with tech vibes">
+      <img src="d.gif" width="300" alt="Dalia caricature working on laptop with tech vibes">
     </td>
   </tr>
 </table>
