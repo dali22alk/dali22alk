@@ -28,9 +28,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      
-![demo](d.gif)
-
+      <img src="d.gif" width="300" alt="Dalia caricature working on laptop with tech vibes">
     </td>
   </tr>
 </table>
@@ -86,4 +84,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9f7aea,4299e1&height=100&section=footer" width="100%"/>
 </div>
-
