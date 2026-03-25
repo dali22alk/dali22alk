@@ -1,3 +1,5 @@
+
+![d](https://github.com/user-attachments/assets/a6b307da-9716-43ba-bb77-869fe40a9d4a)
 <div align="center">
   
   # Hi there, I'm Dalia 👋
