@@ -1,105 +1,100 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF758C,100:FF7EB3&height=250&section=header&text=Dalia%20Alkelani&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics&descAlignY=60&descSize=20" width="100%"/>
-
-<h3 align="center">Architecting Intelligent Systems at the Intersection of Software and Hardware ✨</h3>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=40&lines=Building+Intelligent+Systems+That+Scale...;Transforming+Data+Into+Actionable+Insights;Connecting+Software+Brain+with+Robotic+Brawn;Tech+Creator+%26+Engineer+In+Progress+%E2%9C%A8" alt="Typing Animation" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=200&section=header&text=DALIA+ALKELANI&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=A+I+%20+%7C+%20+R+O+B+O+T+I+C+S+%20+%7C+%20+V+I+S+I+O+N&descAlignY=70&descSize=16" width="100%"/>
 </div>
 
----
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👋 About Me</h2>
-      <p>
-        I am a passionate <b>AI and Robotics Engineer</b> with a love for building creative, practical, and intelligent systems. By combining Machine Learning, Computer Vision, and Hardware automation, I aim to build products that solve real-world problems while keeping things stylish and fun! 🌟
-      </p>
-      <h3>🚀 Core Focus</h3>
-      <ul>
-        <li><b>Artificial Intelligence:</b> Developing predictive models and intelligent algorithms.</li>
-        <li><b>Computer Vision:</b> Extracting real-time insights from visual data.</li>
-        <li><b>Robotics & IoT:</b> Prototyping hardware solutions with Arduino and ESP32.</li>
-        <li><b>Software Architecture:</b> Building robust backend APIs to support AI services.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(255,117,140,0.3);" alt="Workspace Animation"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🛠️ Technical Arsenal
+<br>
 
 <div align="center">
-
-### 🧠 AI & Machine Learning
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-### 👁️ Computer Vision
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-111827?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" />
-
-### 🤖 Robotics & Hardware
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-
-### 💻 Languages & Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=14B8A6&center=true&vCenter=true&width=800&height=40&lines=>_INITIATING_SYSTEM...;>_LOADING_AI_MODELS...;>_CALIBRATING_SENSORS...;>_READY_TO_BUILD_THE_FUTURE." alt="Terminal Animation" />
 </div>
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/DaliaAlkelani">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaliaAlkelani&show_icons=true&title_color=FF3366&icon_color=FF7EB3&text_color=ffffff&bg_color=1E1E2E&hide_border=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/DaliaAlkelani">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaAlkelani&layout=compact&title_color=FF3366&text_color=ffffff&bg_color=1E1E2E&hide_border=true" alt="Top Languages" width="48%" />
-  </a>
-
-  <br/><br/>
-  
-  <a href="https://github.com/DaliaAlkelani">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaliaAlkelani&theme=tokyonight&fire=FF3366&ring=FF7EB3&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FF7EB3&currStreakLabel=FF7EB3&dates=ffffff&background=1E1E2E&hide_border=true" alt="GitHub Streak" width="100%" style="max-width: 850px;" />
-  </a>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Dalia-Alkelani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/daliaalkelani/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:Daliaalkelani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <i>"The true sign of intelligence is not knowledge, but imagination."</i><br>
+  <b>Building the bridge between intelligent algorithms and physical hardware.</b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7EB3,100:FF758C&height=120&section=footer" width="100%"/>
+---
 
+### ✦ SYSTEM_CAPABILITIES.exe
+
+<table align="center" width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 Neural Networks & Vision
+Building AI models that perceive and understand the physical world.
+<br><br>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=YOLO&logoColor=00FFFF" />
+<img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Hardware & Robotics
+Translating intelligent software into tangible, physical motion.
+<br><br>
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00979D" />
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberry-pi&logoColor=A22846" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### ✦ CORE_INFRASTRUCTURE.sh
+<div align="center">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+</div>
+
+<br>
+
+---
+
+### ✦ TELEMETRY_DATA
+
+<p align="center">
+  <a href="https://github.com/DaliaAlkelani">
+    <img src="https://github-readme-stats.vercel.app/api?username=DaliaAlkelani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=14B8A6&text_color=94A3B8" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/DaliaAlkelani">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaAlkelani&layout=compact&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=94A3B8" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" style="max-width: 850px;" />
+  <br><i><small>Contribution Activity Matrix</small></i>
+</div>
+
+<br>
+
+---
+
+### ✦ ESTABLISH_CONNECTION
+
+<div align="center">
+
+<br>
+
+<a href="https://www.linkedin.com/in/Dalia-Alkelani/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/daliaalkelani/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="mailto:Daliaalkelani@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:0F172A&height=15&section=footer" width="100%"/>
 </div>
