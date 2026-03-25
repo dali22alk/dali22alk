@@ -26,8 +26,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/d.gif" width="300">
-</p>
+      <img src="d.gif" width="300" alt="Dalia caricature working on laptop with tech vibes">
     </td>
   </tr>
 </table>
