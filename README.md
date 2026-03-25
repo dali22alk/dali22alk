@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Lsjmv6WBfpHOruHLxE/giphy.gif" width="200" align="right">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="200" align="right">
   
   ### 👩‍💻 About Me
   *I build intelligent systems by combining **Artificial Intelligence**, **Computer Vision**, and **Robotics**, turning ideas into real-world applications using modern tools and scalable workflows.*
@@ -21,7 +21,7 @@
 
 ### 🚀 What I'm Currently Doing ...
 
-<img src="https://media.giphy.com/media/qgQUggmaLyflQf1b0T/giphy.gif" width="150" align="left">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Space.gif" width="140" align="left">
 
 - 🧠 Deep diving into **AI (NLP & Computer Vision)**
 - 🤖 Building **Robotics** projects with Arduino & ESP32
