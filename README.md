@@ -1,4 +1,4 @@
-
+![d](https://github.com/user-attachments/assets/1d0b3f9b-36c4-4cef-95ad-83b6fb4ed15c)
 <div align="center">
   
   <img src="d.gif" alt="Dalia caricature working on laptop with tech vibes" width="450">
@@ -31,7 +31,8 @@
       </ul>
     </td>
     <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif" width="160" alt="Nyan Cat">
+      ![d](https://github.com/user-attachments/assets/e404f1d6-3f40-4b0e-b751-d2f9d58dd700)
+
     </td>
   </tr>
 </table>
