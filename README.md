@@ -98,7 +98,3 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0078D4,00E5FF&height=100&section=footer" width="100%" />
-</div>
