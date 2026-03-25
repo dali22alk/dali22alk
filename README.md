@@ -1,14 +1,13 @@
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&height=80&duration=4000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer;Tech+Content+Creator" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&height=80&duration=4000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer;Tech+Content+Creator" alt="Typing SVG" /></a>
   <br><br>
   <p align="center">
     <a href="https://www.linkedin.com/in/Dalia-Alkelani/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/daliaalkelani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="mailto:Daliaalkelani@gmail.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
   </p>
+
 </div>
 
 <br>
@@ -26,10 +25,8 @@
         <li>🎨 Exploring AI content creation</li>
       </ul>
     </td>
-
     <td width="35%" align="center">
-      <!-- 🔥 تم استبدال GIF بفيديو -->
-      <video autoplay loop muted playsinline width="300">
+            <video autoplay loop muted playsinline width="300">
         <source src="d.mp4" type="video/mp4">
       </video>
     </td>
@@ -78,6 +75,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 </p>
 
