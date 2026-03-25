@@ -81,5 +81,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:9f7aea&height=120&section=footer&text=const%20build%20=%20()%20=>%20🚀;&fontColor=ffffff&fontSize=22&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
