@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" align="right">
+  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="250" align="right">
   
   ### 👩‍💻 About Me
   > *I build intelligent systems by combining **Artificial Intelligence**, **Computer Vision**, and **Robotics**.*<br>
@@ -21,9 +21,15 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/zJNxZiABvz7gKLh2uK/giphy.gif" width="600" style="border-radius: 10px;">
+</div>
+
+<br/>
+
 ### 🚀 What I'm Currently Doing ...
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" align="left">
+<img src="https://media.giphy.com/media/rLQapkafiuedIMY8gy/giphy.gif" width="200" align="left">
 
 - 🧠 Deep diving into **AI (NLP & Computer Vision)**
 - 🤖 Building **Robotics** projects with Arduino & ESP32
@@ -77,6 +83,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" width="600" style="border-radius: 10px;">
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaliaAlkelani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff&icon_color=0078D4" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaliaAlkelani&hide_border=true&background=0D1117&ring=0078D4&fire=00E5FF&currStreakLabel=00E5FF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" height="150" alt="GitHub Streak" />
 </div>
@@ -84,6 +96,10 @@
 <br/>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif" width="100" />
+</div>
 
 ### 📫 Let's Connect!
 
@@ -102,4 +118,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0078D4,00E5FF&height=100&section=footer" width="100%" />
 </div>
-
