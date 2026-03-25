@@ -26,9 +26,8 @@
       </ul>
     </td>
     <td width="35%" align="center">
-            <video autoplay loop muted playsinline width="300">
-        <source src="d.mp4" type="video/mp4">
-      </video>
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/d.gif" width="300">
+</p>
     </td>
   </tr>
 </table>
