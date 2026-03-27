@@ -3,8 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&height=80&duration=4000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer;Tech+Content+Creator" alt="Typing SVG" /></a>
   <br><br>
   <p align="center">
-    <a href="https://www.linkedin.com/in/Dalia-Alkelani/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/daliaalkelani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/dalia-al-kilani/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/dalia.alkilani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="mailto:Daliaalkelani@gmail.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
   </p>
 
