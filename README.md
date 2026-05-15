@@ -17,7 +17,7 @@
       <p>I build <b>intelligent systems</b> by combining <b>Artificial Intelligence, Computer Vision, and Robotics</b>, turning ideas into real-world applications using modern tools and scalable workflows.</p>
       <b>🔭 Currently Focusing On:</b>
       <ul>
-        <li>🤖 AI (NLP & Computer Vision)</li>
+        <li>🤖 AI (NLP (Text Classification & Computer Vision)</li>
         <li>🦾 Robotics with Arduino & ESP32</li>
         <li>⚡ Building AI-powered real-time systems</li>
         <li>🎨 Exploring AI content creation</li>
