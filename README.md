@@ -18,7 +18,7 @@
       <b>🔭 Currently Focusing On:</b>
       <ul>
         <li>🤖 AI (NLP (Text Classification & Computer Vision)</li>
-        <li>🦾 Robotics with Arduino & ESP32</li>
+        <li>🦾 Robotics with Arduino & ESP32 & Raspberry pi</li>
         <li>⚡ Building AI-powered real-time systems</li>
         <li>🎨 Exploring AI content creation</li>
       </ul>
